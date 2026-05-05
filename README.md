@@ -59,17 +59,6 @@ Automação para download de vídeos
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeTart\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTart\&layout=compact\&theme=tokyonight)
-
-</div>
-
----
 
 ## 🎯 Objetivo
 
